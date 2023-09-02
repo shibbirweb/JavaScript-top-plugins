@@ -1,2 +1,5 @@
-# JavaScript-top-plugins
-Collection of top plugins
+# JavaScript top plugins
+
+- Valina JS
+  - Datepicker
+    - [Flatpickr ](https://flatpickr.js.org/)
